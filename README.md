@@ -12,3 +12,6 @@ Diary Study privacy-policy: https://brokenmental.github.io/privacy-policy/diarys
 
 Lafundas privacy-policy: https://brokenmental.github.io/privacy-policy/lafundas/
 
+
+Brain Playground privacy-policy: https://brokenmental.github.io/privacy-policy/brain-playground/
+
