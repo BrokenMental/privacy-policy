@@ -17,3 +17,5 @@ Brain Playground privacy-policy: https://brokenmental.github.io/privacy-policy/b
 
 
 Learn Lang privacy-policy: https://brokenmental.github.io/privacy-policy/learn-lang/
+
+Shifthing privacy-policy: https://brokenmental.github.io/privacy-policy/shifthing/
